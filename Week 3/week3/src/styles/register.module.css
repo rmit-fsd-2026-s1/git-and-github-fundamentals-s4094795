@@ -1,0 +1,50 @@
+.page {
+  background-color: #f7fafc;
+}
+
+.header {
+  background-color: #3182ce;
+  color: white;
+  padding: 16px;
+}
+
+.nav {
+  background-color: #2b6cb0;
+  color: white;
+  padding: 12px 16px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+.main {
+  padding: 24px;
+}
+
+.form-box {
+  background-color: white;
+  padding: 32px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  width: 100%;
+  max-width: 400px;
+}
+
+.error-text {
+  color: red;
+  margin-bottom: 16px;
+}
+
+.footer {
+  background-color: #3182ce;
+  color: white;
+  text-align: center;
+  padding: 16px;
+}
